@@ -1,6 +1,6 @@
 ---
 name: noemi
-description: Use when the user invokes /noemi, asks to remove em dashes or dashes, or writes, edits, or reviews user-facing copy in frontend UI or backend responses, emails, and notifications.
+description: Use when the user invokes /noemi, asks to remove dashes, or writes or reviews user-facing copy.
 ---
 
 # noemi (`/noemi`)

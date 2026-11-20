@@ -1,6 +1,6 @@
 ---
 name: elic
-description: Use when the user invokes /elic, mentions ELICACTUS, or asks for a short, plain-language explanation without technical jargon or talking down.
+description: Use when the user invokes /elic, mentions ELICACTUS, or asks for a plain-language explanation.
 ---
 
 # ELICACTUS (`/elic`)
